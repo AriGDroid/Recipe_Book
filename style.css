@@ -1,0 +1,45 @@
+/* define the style for the body of the page */
+body {
+    background-color: darkolivegreen;
+    font-family: calibri;
+    color: white;
+}
+/*reason for choosing the color is because it is a dark color and it will make the text stand out more and be easier to read.*/
+h1 {
+    color: blue;
+    font-family: franklin Gothic;
+    font-weight: bold;
+}
+p {
+    color: rgba(255, 255, 0, 0.838);
+    font-family: calibri;
+    font-weight: normal;
+}
+/* the h2, h3 and h4 are colored differently to distinguish between the two headings. */
+h2
+{
+    color: rgb(255, 0, 0);
+    font-family: calibri;
+    font-weight: medium;
+}
+h3 {
+    color: rgba(182, 67, 86, 0.827);
+    font-family: calibri;
+    font-weight: medium;
+}
+h4 {
+    color: lightblue;
+    font-family: calibri;
+    font-weight: medium;
+}
+/* the a tag is colored cyan to make it stand out from the rest of the text and be easily identifiable as a link. */
+a {
+    color: rgb(0, 255, 255);
+    font-family: calibri;
+    font-weight: 500;
+}
+
+img {
+    width: 15%;
+    background-color: white;
+}
